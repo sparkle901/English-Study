@@ -1,0 +1,15 @@
+{
+  "difficulty": 1,
+  "next_pattern_index": 2,
+  "recent_results": ["wrong"],
+  "total_answered": 1,
+  "pending_question": {
+    "pattern_day": 1,
+    "pattern_en": "I'm on ~",
+    "korean_prompt": "그 AGV 오류는 제가 처리하고 있어요.",
+    "model_answer": "I'm on it.",
+    "asked_at": "2026-07-09T20:58:03Z",
+    "answered": true
+  },
+  "last_run_at": "2026-07-09T20:58:03Z"
+}
