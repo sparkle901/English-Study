@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 2,
+  "next_pattern_index": 3,
   "recent_results": ["wrong"],
   "total_answered": 1,
   "pending_question": {
-    "pattern_day": 1,
-    "pattern_en": "I'm on ~",
-    "korean_prompt": "그 AGV 오류는 제가 처리하고 있어요.",
-    "model_answer": "I'm on it.",
-    "asked_at": "2026-07-09T20:58:03Z",
-    "answered": true
+    "pattern_day": 2,
+    "pattern_en": "I'm afraid of ~",
+    "korean_prompt": "저는 AGV가 또 고장날까봐 걱정돼요.",
+    "model_answer": "I'm afraid of another AGV breakdown.",
+    "asked_at": "2026-07-09T20:45:47Z",
+    "answered": false
   },
-  "last_run_at": "2026-07-09T20:58:03Z"
+  "last_run_at": "2026-07-09T20:45:47Z"
 }
