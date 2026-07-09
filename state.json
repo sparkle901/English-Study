@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
   "next_pattern_index": 3,
-  "recent_results": ["wrong"],
-  "total_answered": 1,
+  "recent_results": ["wrong", "wrong"],
+  "total_answered": 2,
   "pending_question": {
     "pattern_day": 2,
     "pattern_en": "I'm afraid of ~",
     "korean_prompt": "저는 AGV가 또 고장날까봐 걱정돼요.",
     "model_answer": "I'm afraid of another AGV breakdown.",
     "asked_at": "2026-07-09T20:45:47Z",
-    "answered": false
+    "answered": true
   },
   "last_run_at": "2026-07-09T20:45:47Z"
 }
