@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 4,
+  "next_pattern_index": 5,
   "recent_results": ["wrong", "wrong", "wrong"],
   "total_answered": 3,
   "pending_question": {
-    "pattern_day": 3,
-    "pattern_en": "I'm about to ~",
-    "korean_prompt": "저는 막 AS/RS 재고를 확인하려던 참이었어요.",
-    "model_answer": "I'm about to check the AS/RS inventory.",
-    "asked_at": "2026-07-10T05:02:00Z",
-    "answered": true
+    "pattern_day": 4,
+    "pattern_en": "I'm here to ~",
+    "korean_prompt": "저는 MES 시스템 점검하러 왔어요.",
+    "model_answer": "I'm here to check the MES system.",
+    "asked_at": "2026-07-10T07:00:00Z",
+    "answered": false
   },
-  "last_run_at": "2026-07-10T05:02:00Z"
+  "last_run_at": "2026-07-10T07:00:00Z"
 }
