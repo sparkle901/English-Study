@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
   "next_pattern_index": 6,
-  "recent_results": ["wrong", "wrong", "wrong"],
-  "total_answered": 3,
+  "recent_results": ["wrong", "wrong", "wrong", "wrong"],
+  "total_answered": 4,
   "pending_question": {
     "pattern_day": 5,
     "pattern_en": "I'm not here to ~",
     "korean_prompt": "저는 당신을 탓하러 온 게 아니에요.",
     "model_answer": "I'm not here to blame you.",
     "asked_at": "2026-07-10T15:08:37Z",
-    "answered": false
+    "answered": true
   },
   "last_run_at": "2026-07-10T15:08:37Z"
 }
