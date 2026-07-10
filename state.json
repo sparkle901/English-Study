@@ -1,8 +1,8 @@
 {
   "difficulty": 1,
   "next_pattern_index": 6,
-  "recent_results": ["wrong", "wrong", "wrong", "wrong"],
-  "total_answered": 4,
+  "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
+  "total_answered": 5,
   "pending_question": {
     "pattern_day": 5,
     "pattern_en": "I'm not here to ~",
