@@ -10,3 +10,4 @@
 - 2026-07-10T07:05:00Z | Day 4 답변 | 사용자 답: "I went to check the MES system." | 판정: wrong
 - 2026-07-10T15:08:37Z | Day 5 | 난이도 1 | 문제: "저는 당신을 탓하러 온 게 아니에요."
 - 2026-07-10T15:12:00Z | Day 5 답변 | 사용자 답: "I don't want to bother you here." | 판정: wrong
+- 2026-07-11T10:35:15Z | Day 6 | 난이도 1 | 문제: "저는 MES 시스템 점검할 준비가 됐어요."
