@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 7,
+  "next_pattern_index": 8,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 6,
-    "pattern_en": "I'm ready to ~",
-    "korean_prompt": "저는 MES 시스템 점검할 준비가 됐어요.",
-    "model_answer": "I'm ready to check the MES system.",
-    "asked_at": "2026-07-11T10:35:15Z",
+    "pattern_day": 7,
+    "pattern_en": "I'm sorry ~",
+    "korean_prompt": "AGV 점검하러 늦게 와서 죄송합니다.",
+    "model_answer": "I'm sorry I'm late for the AGV inspection.",
+    "asked_at": "2026-07-11T17:00:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-11T10:35:15Z"
+  "last_run_at": "2026-07-11T17:00:00Z"
 }
