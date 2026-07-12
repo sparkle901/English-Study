@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 10,
+  "next_pattern_index": 11,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 9,
-    "pattern_en": "I'm interested in ~",
-    "korean_prompt": "저는 새로운 AGV 모델에 관심이 있어요.",
-    "model_answer": "I'm interested in the new AGV model.",
-    "asked_at": "2026-07-12T05:07:10Z",
+    "pattern_day": 10,
+    "pattern_en": "I'm going to ~",
+    "korean_prompt": "저는 이따가 MES 시스템 오류를 확인할 거예요.",
+    "model_answer": "I'm going to check the MES system error later.",
+    "asked_at": "2026-07-12T11:25:13Z",
     "answered": false
   },
-  "last_run_at": "2026-07-12T05:07:10Z"
+  "last_run_at": "2026-07-12T11:25:13Z"
 }
