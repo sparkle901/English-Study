@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 15,
+  "next_pattern_index": 16,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 14,
-    "pattern_en": "I'm getting ~",
-    "korean_prompt": "저는 AGV 문제 해결에 점점 나아지고 있어요.",
-    "model_answer": "I'm getting better at solving AGV problems.",
-    "asked_at": "2026-07-13T10:35:57Z",
+    "pattern_day": 15,
+    "pattern_en": "I'm willing to ~",
+    "korean_prompt": "저는 기꺼이 AGV 문제를 도와드릴게요.",
+    "model_answer": "I'm willing to help with the AGV issue.",
+    "asked_at": "2026-07-13T15:04:02Z",
     "answered": false
   },
-  "last_run_at": "2026-07-13T10:35:57Z"
+  "last_run_at": "2026-07-13T15:04:02Z"
 }
