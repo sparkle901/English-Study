@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 13,
+  "next_pattern_index": 14,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 12,
-    "pattern_en": "I'm trying to ~",
-    "korean_prompt": "저는 지금 AGV 배터리 문제를 고치려고 하고 있어요.",
-    "model_answer": "I'm trying to fix the AGV battery problem right now.",
-    "asked_at": "2026-07-12T22:00:00Z",
+    "pattern_day": 13,
+    "pattern_en": "I'm not trying to ~",
+    "korean_prompt": "저는 AGV 라인을 멈추려는 게 아니에요.",
+    "model_answer": "I'm not trying to stop the AGV line.",
+    "asked_at": "2026-07-13T05:07:10Z",
     "answered": false
   },
-  "last_run_at": "2026-07-12T22:00:00Z"
+  "last_run_at": "2026-07-13T05:07:10Z"
 }
