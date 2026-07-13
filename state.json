@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 14,
+  "next_pattern_index": 15,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 13,
-    "pattern_en": "I'm not trying to ~",
-    "korean_prompt": "저는 AGV 라인을 멈추려는 게 아니에요.",
-    "model_answer": "I'm not trying to stop the AGV line.",
-    "asked_at": "2026-07-13T05:07:10Z",
+    "pattern_day": 14,
+    "pattern_en": "I'm getting ~",
+    "korean_prompt": "저는 AGV 문제 해결에 점점 나아지고 있어요.",
+    "model_answer": "I'm getting better at solving AGV problems.",
+    "asked_at": "2026-07-13T10:35:57Z",
     "answered": false
   },
-  "last_run_at": "2026-07-13T05:07:10Z"
+  "last_run_at": "2026-07-13T10:35:57Z"
 }
