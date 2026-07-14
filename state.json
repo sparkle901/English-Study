@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 19,
+  "next_pattern_index": 20,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 18,
-    "pattern_en": "Are you going to ~?",
-    "korean_prompt": "AS/RS 재고를 확인할 거예요?",
-    "model_answer": "Are you going to check the AS/RS inventory?",
-    "asked_at": "2026-07-14T15:03:00Z",
+    "pattern_day": 19,
+    "pattern_en": "Are you trying to ~?",
+    "korean_prompt": "너 출고 목록 확인하려는 거야?",
+    "model_answer": "Are you trying to check the outbound list?",
+    "asked_at": "2026-07-14T20:09:32Z",
     "answered": false
   },
-  "last_run_at": "2026-07-14T15:03:00Z"
+  "last_run_at": "2026-07-14T20:09:32Z"
 }
