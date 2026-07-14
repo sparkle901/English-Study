@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 17,
+  "next_pattern_index": 18,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 16,
-    "pattern_en": "I'm looking for ~",
-    "korean_prompt": "저는 AGV 충전기를 찾고 있어요.",
-    "model_answer": "I'm looking for the AGV charger.",
-    "asked_at": "2026-07-14T05:06:57Z",
+    "pattern_day": 17,
+    "pattern_en": "Are you ready to ~?",
+    "korean_prompt": "AGV 재부팅할 준비 되셨어요?",
+    "model_answer": "Are you ready to reboot the AGV?",
+    "asked_at": "2026-07-14T10:36:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-14T05:06:57Z"
+  "last_run_at": "2026-07-14T10:36:00Z"
 }
