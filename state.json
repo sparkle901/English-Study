@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 21,
+  "next_pattern_index": 22,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 20,
-    "pattern_en": "Aren't you ~?",
-    "korean_prompt": "너 AGV 문제 때문에 걱정되지 않아?",
-    "model_answer": "Aren't you worried about the AGV problem?",
-    "asked_at": "2026-07-15T05:07:28Z",
+    "pattern_day": 21,
+    "pattern_en": "I want to ~",
+    "korean_prompt": "저는 오늘 AGV 배터리 상태를 확인하고 싶어요.",
+    "model_answer": "I want to check the AGV battery status today.",
+    "asked_at": "2026-07-15T10:36:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-15T05:07:28Z"
+  "last_run_at": "2026-07-15T10:36:00Z"
 }
