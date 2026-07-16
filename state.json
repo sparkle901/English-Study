@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 24,
+  "next_pattern_index": 25,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 23,
-    "pattern_en": "You don't want to ~",
-    "korean_prompt": "지금 AGV 전원을 끄지 않는 게 좋을 거예요.",
-    "model_answer": "You don't want to turn off the AGV power right now.",
-    "asked_at": "2026-07-15T20:08:55Z",
+    "pattern_day": 24,
+    "pattern_en": "Do you want to ~?",
+    "korean_prompt": "지금 AS/RS 오류 로그를 확인하고 싶으세요?",
+    "model_answer": "Do you want to check the AS/RS error log now?",
+    "asked_at": "2026-07-16T05:07:14Z",
     "answered": false
   },
-  "last_run_at": "2026-07-15T20:08:55Z"
+  "last_run_at": "2026-07-16T05:07:14Z"
 }
