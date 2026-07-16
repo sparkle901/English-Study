@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 26,
+  "next_pattern_index": 27,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 25,
-    "pattern_en": "I just wanted to ~",
-    "korean_prompt": "저는 그냥 출고 수량을 확인하고 싶었어요.",
-    "model_answer": "I just wanted to check the outbound quantity.",
-    "asked_at": "2026-07-16T10:35:52Z",
+    "pattern_day": 26,
+    "pattern_en": "I think ~",
+    "korean_prompt": "저는 AGV 배터리가 문제인 것 같아요.",
+    "model_answer": "I think the AGV battery is the problem.",
+    "asked_at": "2026-07-16T15:03:18Z",
     "answered": false
   },
-  "last_run_at": "2026-07-16T10:35:52Z"
+  "last_run_at": "2026-07-16T15:03:18Z"
 }
