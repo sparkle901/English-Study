@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 25,
+  "next_pattern_index": 26,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 24,
-    "pattern_en": "Do you want to ~?",
-    "korean_prompt": "지금 AS/RS 오류 로그를 확인하고 싶으세요?",
-    "model_answer": "Do you want to check the AS/RS error log now?",
-    "asked_at": "2026-07-16T05:07:14Z",
+    "pattern_day": 25,
+    "pattern_en": "I just wanted to ~",
+    "korean_prompt": "저는 그냥 출고 수량을 확인하고 싶었어요.",
+    "model_answer": "I just wanted to check the outbound quantity.",
+    "asked_at": "2026-07-16T10:35:52Z",
     "answered": false
   },
-  "last_run_at": "2026-07-16T05:07:14Z"
+  "last_run_at": "2026-07-16T10:35:52Z"
 }
