@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 30,
+  "next_pattern_index": 31,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 29,
-    "pattern_en": "I know it ~",
-    "korean_prompt": "그 AGV 문제가 아직 안 끝났다는 거 알아요.",
-    "model_answer": "I know it's not over yet.",
-    "asked_at": "2026-07-17T10:36:08Z",
+    "pattern_day": 30,
+    "pattern_en": "I don't know why ~",
+    "korean_prompt": "AS/RS 크레인이 왜 갑자기 멈췄는지 모르겠어요.",
+    "model_answer": "I don't know why the AS/RS crane suddenly stopped.",
+    "asked_at": "2026-07-17T15:04:48Z",
     "answered": false
   },
-  "last_run_at": "2026-07-17T10:36:08Z"
+  "last_run_at": "2026-07-17T15:04:48Z"
 }
