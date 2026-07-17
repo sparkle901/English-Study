@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 29,
+  "next_pattern_index": 30,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 28,
-    "pattern_en": "Don't you think ~?",
-    "korean_prompt": "AGV 라인을 멈춰야 한다고 생각하지 않아?",
-    "model_answer": "Don't you think we should stop the AGV line?",
-    "asked_at": "2026-07-17T07:00:00Z",
+    "pattern_day": 29,
+    "pattern_en": "I know it ~",
+    "korean_prompt": "그 AGV 문제가 아직 안 끝났다는 거 알아요.",
+    "model_answer": "I know it's not over yet.",
+    "asked_at": "2026-07-17T10:36:08Z",
     "answered": false
   },
-  "last_run_at": "2026-07-17T07:00:00Z"
+  "last_run_at": "2026-07-17T10:36:08Z"
 }
