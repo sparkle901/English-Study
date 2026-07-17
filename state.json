@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 28,
+  "next_pattern_index": 29,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 27,
-    "pattern_en": "Do you think ~?",
-    "korean_prompt": "AS/RS 시스템이 오늘 안에 고쳐질 것 같아요?",
-    "model_answer": "Do you think the AS/RS system will be fixed today?",
-    "asked_at": "2026-07-16T22:00:00Z",
+    "pattern_day": 28,
+    "pattern_en": "Don't you think ~?",
+    "korean_prompt": "AGV 라인을 멈춰야 한다고 생각하지 않아?",
+    "model_answer": "Don't you think we should stop the AGV line?",
+    "asked_at": "2026-07-17T07:00:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-16T22:00:00Z"
+  "last_run_at": "2026-07-17T07:00:00Z"
 }
