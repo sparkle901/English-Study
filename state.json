@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 34,
+  "next_pattern_index": 35,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 33,
-    "pattern_en": "I like your ~",
-    "korean_prompt": "저는 당신의 AGV 경로 계획이 마음에 들어요.",
-    "model_answer": "I like your AGV route plan.",
-    "asked_at": "2026-07-18T15:03:38Z",
+    "pattern_day": 34,
+    "pattern_en": "I like to ~",
+    "korean_prompt": "저는 매일 아침 MES 시스템을 점검하는 거 좋아해요.",
+    "model_answer": "I like to check the MES system every morning.",
+    "asked_at": "2026-07-18T22:00:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-18T15:03:38Z"
+  "last_run_at": "2026-07-18T22:00:00Z"
 }
