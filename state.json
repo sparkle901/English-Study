@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 32,
+  "next_pattern_index": 33,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 31,
-    "pattern_en": "I mean ~",
-    "korean_prompt": "제 말은, MES 시스템이 아직 업데이트되지 않았다는 거예요.",
-    "model_answer": "I mean, the MES system hasn't been updated yet.",
-    "asked_at": "2026-07-17T20:09:09Z",
+    "pattern_day": 32,
+    "pattern_en": "I didn't mean to ~",
+    "korean_prompt": "저는 AGV 라인을 멈추려는 의도는 아니었어요.",
+    "model_answer": "I didn't mean to stop the AGV line.",
+    "asked_at": "2026-07-18T10:35:25Z",
     "answered": false
   },
-  "last_run_at": "2026-07-17T20:09:09Z"
+  "last_run_at": "2026-07-18T10:35:25Z"
 }
