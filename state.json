@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 33,
+  "next_pattern_index": 34,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 32,
-    "pattern_en": "I didn't mean to ~",
-    "korean_prompt": "저는 AGV 라인을 멈추려는 의도는 아니었어요.",
-    "model_answer": "I didn't mean to stop the AGV line.",
-    "asked_at": "2026-07-18T10:35:25Z",
+    "pattern_day": 33,
+    "pattern_en": "I like your ~",
+    "korean_prompt": "저는 당신의 AGV 경로 계획이 마음에 들어요.",
+    "model_answer": "I like your AGV route plan.",
+    "asked_at": "2026-07-18T15:03:38Z",
     "answered": false
   },
-  "last_run_at": "2026-07-18T10:35:25Z"
+  "last_run_at": "2026-07-18T15:03:38Z"
 }
