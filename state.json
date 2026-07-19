@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 36,
+  "next_pattern_index": 37,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 35,
-    "pattern_en": "I don't like to ~",
-    "korean_prompt": "저는 AS/RS 시스템을 재부팅하는 거 안 좋아해요.",
-    "model_answer": "I don't like to reboot the AS/RS system.",
-    "asked_at": "2026-07-19T05:06:51Z",
+    "pattern_day": 36,
+    "pattern_en": "It's like ~",
+    "korean_prompt": "이 AGV 문제는 마치 악몽 같아요.",
+    "model_answer": "This AGV problem is like a nightmare.",
+    "asked_at": "2026-07-19T10:35:25Z",
     "answered": false
   },
-  "last_run_at": "2026-07-19T05:06:51Z"
+  "last_run_at": "2026-07-19T10:35:25Z"
 }
