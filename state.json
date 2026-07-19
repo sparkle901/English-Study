@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 37,
+  "next_pattern_index": 38,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 36,
-    "pattern_en": "It's like ~",
-    "korean_prompt": "이 AGV 문제는 마치 악몽 같아요.",
-    "model_answer": "This AGV problem is like a nightmare.",
-    "asked_at": "2026-07-19T10:35:25Z",
+    "pattern_day": 37,
+    "pattern_en": "It sounds like ~",
+    "korean_prompt": "AGV 문제가 심각한 것 같아요.",
+    "model_answer": "It sounds like the AGV problem is serious.",
+    "asked_at": "2026-07-19T15:03:04Z",
     "answered": false
   },
-  "last_run_at": "2026-07-19T10:35:25Z"
+  "last_run_at": "2026-07-19T15:03:04Z"
 }
