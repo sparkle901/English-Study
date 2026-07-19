@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 35,
+  "next_pattern_index": 36,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 34,
-    "pattern_en": "I like to ~",
-    "korean_prompt": "저는 매일 아침 MES 시스템을 점검하는 거 좋아해요.",
-    "model_answer": "I like to check the MES system every morning.",
-    "asked_at": "2026-07-18T22:00:00Z",
+    "pattern_day": 35,
+    "pattern_en": "I don't like to ~",
+    "korean_prompt": "저는 AS/RS 시스템을 재부팅하는 거 안 좋아해요.",
+    "model_answer": "I don't like to reboot the AS/RS system.",
+    "asked_at": "2026-07-19T05:06:51Z",
     "answered": false
   },
-  "last_run_at": "2026-07-18T22:00:00Z"
+  "last_run_at": "2026-07-19T05:06:51Z"
 }
