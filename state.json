@@ -2,14 +2,14 @@
   "difficulty": 1,
   "next_pattern_index": 42,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
-  "total_answered": 5,
+  "total_answered": 6,
   "pending_question": {
     "pattern_day": 41,
     "pattern_en": "Can I get you ~?",
     "korean_prompt": "AS/RS 오류 리포트 좀 가져다 드릴까요?",
     "model_answer": "Can I get you the AS/RS error report?",
     "asked_at": "2026-07-20T17:00:00Z",
-    "answered": false
+    "answered": true
   },
   "last_run_at": "2026-07-20T17:00:00Z"
 }
