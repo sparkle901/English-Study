@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 39,
+  "next_pattern_index": 40,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 5,
   "pending_question": {
-    "pattern_day": 38,
-    "pattern_en": "I'd like to ~",
-    "korean_prompt": "저는 AGV 배터리를 교체하고 싶습니다.",
-    "model_answer": "I'd like to replace the AGV battery.",
-    "asked_at": "2026-07-19T22:00:00Z",
+    "pattern_day": 39,
+    "pattern_en": "Would you like to ~?",
+    "korean_prompt": "AGV 로그 파일을 확인해 보시겠어요?",
+    "model_answer": "Would you like to check the AGV log file?",
+    "asked_at": "2026-07-20T07:00:00Z",
     "answered": false
   },
-  "last_run_at": "2026-07-19T22:00:00Z"
+  "last_run_at": "2026-07-20T07:00:00Z"
 }
