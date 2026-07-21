@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 42,
+  "next_pattern_index": 43,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 6,
   "pending_question": {
-    "pattern_day": 41,
-    "pattern_en": "Can I get you ~?",
-    "korean_prompt": "AS/RS 오류 리포트 좀 가져다 드릴까요?",
-    "model_answer": "Can I get you the AS/RS error report?",
-    "asked_at": "2026-07-20T17:00:00Z",
-    "answered": true
+    "pattern_day": 42,
+    "pattern_en": "Can't you ~?",
+    "korean_prompt": "AGV 상태 확인 못 해?",
+    "model_answer": "Can't you check the AGV status?",
+    "asked_at": "2026-07-21T10:36:10Z",
+    "answered": false
   },
-  "last_run_at": "2026-07-20T17:00:00Z"
+  "last_run_at": "2026-07-21T10:36:10Z"
 }
