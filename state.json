@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 44,
+  "next_pattern_index": 45,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 6,
   "pending_question": {
-    "pattern_day": 43,
-    "pattern_en": "You can have ~",
-    "korean_prompt": "제 여분 AGV 배터리 가져도 돼요.",
-    "model_answer": "You can have my spare AGV battery.",
-    "asked_at": "2026-07-23T07:00:00Z",
+    "pattern_day": 44,
+    "pattern_en": "I can't think of ~",
+    "korean_prompt": "지금은 AGV 오류의 원인이 생각나지 않아요.",
+    "model_answer": "I can't think of the cause of the AGV error right now.",
+    "asked_at": "2026-07-23T15:04:54Z",
     "answered": false
   },
-  "last_run_at": "2026-07-23T07:00:00Z"
+  "last_run_at": "2026-07-23T15:04:54Z"
 }
