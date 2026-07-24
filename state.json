@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 46,
+  "next_pattern_index": 47,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 6,
   "pending_question": {
-    "pattern_day": 45,
-    "pattern_en": "I can't wait to ~",
-    "korean_prompt": "저는 빨리 새로운 AS/RS 크레인을 사용해보고 싶어요.",
-    "model_answer": "I can't wait to use the new AS/RS crane.",
-    "asked_at": "2026-07-24T10:35:57Z",
+    "pattern_day": 46,
+    "pattern_en": "I can't stand ~",
+    "korean_prompt": "저는 이 AGV 경고음을 못 참겠어요.",
+    "model_answer": "I can't stand this AGV alarm sound.",
+    "asked_at": "2026-07-24T15:04:26Z",
     "answered": false
   },
-  "last_run_at": "2026-07-24T10:35:57Z"
+  "last_run_at": "2026-07-24T15:04:26Z"
 }
