@@ -1,15 +1,15 @@
 {
   "difficulty": 1,
-  "next_pattern_index": 45,
+  "next_pattern_index": 46,
   "recent_results": ["wrong", "wrong", "wrong", "wrong", "wrong"],
   "total_answered": 6,
   "pending_question": {
-    "pattern_day": 44,
-    "pattern_en": "I can't think of ~",
-    "korean_prompt": "지금은 AGV 오류의 원인이 생각나지 않아요.",
-    "model_answer": "I can't think of the cause of the AGV error right now.",
-    "asked_at": "2026-07-23T15:04:54Z",
+    "pattern_day": 45,
+    "pattern_en": "I can't wait to ~",
+    "korean_prompt": "저는 빨리 새로운 AS/RS 크레인을 사용해보고 싶어요.",
+    "model_answer": "I can't wait to use the new AS/RS crane.",
+    "asked_at": "2026-07-24T10:35:57Z",
     "answered": false
   },
-  "last_run_at": "2026-07-23T15:04:54Z"
+  "last_run_at": "2026-07-24T10:35:57Z"
 }
